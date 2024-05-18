@@ -1,0 +1,10 @@
+com\graded\project\dto\TicketDTO$TicketDTOBuilder.class
+com\graded\project\model\Ticket.class
+com\graded\project\service\TicketServiceImpl.class
+com\graded\project\TicketTrackerApplication.class
+com\graded\project\dto\TicketDTO.class
+com\graded\project\service\TicketService.class
+com\graded\project\model\Ticket$TicketBuilder.class
+com\graded\project\mapper\TicketMapper.class
+com\graded\project\controller\TicketController.class
+com\graded\project\repository\TicketRepository.class
